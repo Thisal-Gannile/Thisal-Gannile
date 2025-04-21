@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thisal Gannile</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-- 🌱 I’m currently a **Computer science major.**
+- 🌱 I’m currently a **Computer science major.** 
 
 - 📫 How to reach me **thisalgannile1@gmail.com**
 
